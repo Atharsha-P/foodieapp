@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+google-generativeai
+langchain-google-genai
+supabase
+supabase-py
+openai
+requests
+pgvector
+sqlalchemy
+psycopg2-binary
+python-dotenv
+serper
+geopy
