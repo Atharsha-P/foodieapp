@@ -3,5 +3,5 @@ streamlit
 google-generativeai
 python-dotenv
 requests
-serper
+
 
