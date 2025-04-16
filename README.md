@@ -13,10 +13,17 @@ This is a Streamlit-based chatbot that recommends the best restaurants near your
 ## Project Structure
 
 food-bot-chat/
+
 ├── app.py                # Main Streamlit app
+
 ├── .env                  # Environment variables (not pushed to GitHub)
+
 ├── requirements.txt      # Project dependencies
+
 ├── README.md             # Project documentation
+
 └── utils/
+
     ├── tools.py          # Handles Gemini API and restaurant search logic
+    
     └── memory.py         # Supabase integration for storing chat memory
